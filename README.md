@@ -16,7 +16,7 @@ This is a simple console-based bank system written in C. It allows a user to cre
 
 ## 📦 Files
 
-- `bank.c` – Main source code containing all logic
+- `main.c` – Main source code containing all logic
 - `README.md` – You're reading it 😄
 
 ---
