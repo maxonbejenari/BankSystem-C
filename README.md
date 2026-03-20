@@ -1,10 +1,10 @@
-# 💸 Bank System in C
+# Bank System in C
 
 This is a simple console-based bank system written in C. It allows a user to create an account and perform basic operations like depositing, withdrawing, and viewing account details.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Create a new bank account
 - Deposit money
@@ -14,14 +14,13 @@ This is a simple console-based bank system written in C. It allows a user to cre
 
 ---
 
-## 📦 Files
+## Files
 
 - `main.c` – Main source code containing all logic
-- `README.md` – You're reading it 😄
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 
 Make sure you have `gcc` installed.
 
